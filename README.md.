@@ -1,0 +1,16 @@
+# SQL Transactions and Student Records
+
+## Assignment Overview
+
+This assignment demonstrates how to create a SQL table, insert student records, update data, and retrieve records.
+
+## Questions Completed
+
+1. Created a `student` table with `id`, `fullName`, and `age`.
+2. Inserted three student records.
+3. Updated the age of the student with ID 2 to 20.
+4. Used `SELECT` to display all student records.
+
+## File
+
+* `answer.sql` — Contains all SQL statements for the assignment.
